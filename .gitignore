@@ -1,0 +1,7 @@
+.mines .cell {
+    background: rgb(220 224 237 / 15%);
+    border: 1px solid #ced4dab8;
+    border-radius: 5px;
+    height: 65px;
+    margin: 2px;
+    width: 65px;
